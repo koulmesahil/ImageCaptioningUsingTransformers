@@ -1,1 +1,2 @@
 # ImageCaptioningUsingTransformers
+Image Captioning Using TensorFlow employs attention mechanisms to generate descriptive sentences from images. Our project explores how our model analyzes images, extracts key features, and generates meaningful captions. We focus on understanding how visual and linguistic elements interact to create accurate captions, providing insight into the technology behind image captioning.
