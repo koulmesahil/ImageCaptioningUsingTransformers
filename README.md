@@ -71,12 +71,7 @@ By incorporating the Flickr8k dataset, this project benefits from a widely recog
      2. Install the required dependencies 
     
 
-
-
-### 10. **Results**
-  Here's an elaboration of the **Results** section focusing on the quality of captions and evaluation using BLEU scores:
-
-### 10. **Results**
+### 8. **Results**
    - **Caption Quality**: The model achieved impressive results in generating accurate and contextually relevant captions for the images in the Flickr8k dataset. The use of transformers with an attention mechanism allowed the model to focus on the most important parts of the image when generating each word in the caption. This led to captions that are not only descriptive but also grammatically coherent and human-like.
    
    - **Evaluation Metrics**:
@@ -97,7 +92,7 @@ The overall results indicate that the model is effective at generating high-qual
 
 
 
-### 13. **References**
+### 9. **References**
    - **Show and Tell: A Neural Image Caption Generator with Visual Attention**  
      Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan.  
      *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.*  
