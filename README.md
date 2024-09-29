@@ -25,6 +25,9 @@ Image Captioning Using TensorFlow employs attention mechanisms to generate descr
    
    - **Inference for New Images**: The project allows users to generate captions for unseen images after the model has been trained, providing an easy-to-use inference script for image-to-caption tasks.
 
+![image](https://github.com/user-attachments/assets/8f026599-6ed2-4545-a2b5-e4be3a3b70fa)
+
+
 
 ### 4. **Technologies Used**
    
@@ -90,6 +93,10 @@ By incorporating the Flickr8k dataset, this project benefits from a widely recog
 
 The overall results indicate that the model is effective at generating high-quality image captions, supported by a strong BLEU score and insightful attention visualizations.
 
+![image](https://github.com/user-attachments/assets/3ff95e30-9340-4443-96b2-78c27332a654)
+![image](https://github.com/user-attachments/assets/beafbff3-5189-43b8-ba3a-7116e97b7e0a)
+![image](https://github.com/user-attachments/assets/c10f733e-5be8-45ae-b9b7-df9f6390a374)
+![image](https://github.com/user-attachments/assets/9c25f4c3-d900-4553-b6f3-eeae201d4592)
 
 
 ### 9. **References**
